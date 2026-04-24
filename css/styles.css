@@ -386,3 +386,40 @@ body {
 }
 
 /* =============== FOOTER =============== */
+
+.footer-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--primary-text-color-ligth-theme);
+}
+
+.footer-list-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2.19;
+  color: var(--primary-text-color-ligth-theme);
+}
+
+.footer-promo-text {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: var(--primary-text-color-ligth-theme);
+}
+.footer-btn {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  border: none;
+  border-radius: 8px;
+  color: #ffffff;
+  background-color: var(--main-accent-color);
+}
+.copyright {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.89;
+  text-align: center;
+  color: var(--primary-text-color-ligth-theme);
+}
